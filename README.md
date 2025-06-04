@@ -19,12 +19,6 @@ Stress doesn't just “feel bad”—it changes your brain's electrical signals 
 
 ---
 
-## 📊 Sample Output
-
-![clarity_score](clarity_score_by_task_IG_ready.png)
-
----
-
 ## 🔮 Next Steps
 - Simulate cognitive enhancers (Bacopa, breathwork, etc.)
 - Build a personalized stress → clarity timeline
