@@ -2,7 +2,7 @@
 
 **Modeling Cognitive Clarity Using EEG Data from Stress Tasks**
 
-This project uses real EEG data (SAM40 dataset) to simulate how stress affects cognitive clarity in humans. By analyzing beta/alpha band activity across different tasks (Relaxation, Arithmetic, Stroop, Mirror Image), we quantify and visualize a clarity score that reflects real-time cognitive performance under pressure.
+This project uses real EEG data (dataset attached below) to simulate how stress affects cognitive clarity in humans. By analyzing beta/alpha band activity across different tasks (Relaxation, Arithmetic, Stroop, Mirror Image), we quantify and visualize a clarity score that reflects real-time cognitive performance under pressure.
 
 ---
 
